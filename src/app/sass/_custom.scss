@@ -1,0 +1,111 @@
+// Header
+.cs_munu_dropdown_toggle.active + ul {
+  display: block;
+}
+
+// Start Review
+.cs_rating_percentage,
+.cs_rating {
+  width: initial;
+  font-size: initial;
+  &::before {
+    display: none;
+  }
+}
+.cs_sidebar.cs_style_1 {
+  .cs_info_item {
+    .cs_rating {
+      margin-left: initial;
+    }
+  }
+}
+.cs_review {
+  .cs_rating {
+    transform: initial;
+    margin-left: 0;
+  }
+}
+
+// Container OverStyle
+.container .container {
+  padding: 0;
+}
+
+// Slider
+.cs_slider.cs_style_1 {
+  .cs_pagination.cs_style_1 {
+    padding: 0;
+    margin: 0;
+    margin-top: 35px;
+  }
+}
+
+.cs_slider.cs_style_2 {
+  .slick-slide {
+    padding: 0 12px;
+  }
+
+  .slick-dots {
+    display: none;
+    ul {
+      margin: 0;
+      padding: 0;
+      margin-top: 35px;
+      justify-content: center;
+    }
+  }
+  @media (max-width: 991px) {
+    .slick-dots {
+      display: block;
+    }
+  }
+}
+.cs_slider_arrow {
+  z-index: 99;
+  cursor: pointer;
+}
+
+// Hero 1 from select and option  styled
+.cs_find_form_wrap {
+  .css-13cymwt-control,
+  .css-t3ipsp-control {
+    border: none;
+    outline: none;
+    box-shadow: none;
+  }
+
+  .css-b62m3t-container {
+    svg {
+      color: var(--accent);
+    }
+  }
+
+  .css-1u9des2-indicatorSeparator {
+    background-color: initial;
+  }
+  .css-1nmdiq5-menu > div {
+    border-radius: 6px;
+  }
+  .css-1nmdiq5-menu > div > div {
+    padding: 8px 12px;
+    &:hover {
+      cursor: pointer;
+    }
+  }
+  .css-d7l1ni-option {
+    background-color: var(--accent);
+    color: var(--white);
+  }
+}
+
+// Error page
+.cs_error {
+  height: 100vh;
+}
+.cs_hero_input {
+  border: none;
+  outline: none;
+  padding: 0;
+  width: 100%;
+  min-height: 38px;
+}
