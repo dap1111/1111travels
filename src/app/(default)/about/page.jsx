@@ -1,13 +1,13 @@
 'use client';
 import Head from 'next/head';
-import PageHeader from '@/app/ui/PageHeader/PageHeader';
-import AboutSectionStyle2 from '@/app/ui/Section/AboutSection/AboutSectionStyle2';
-import BannerSectionStyle2 from '@/app/ui/Section/BannerSection/BannerSectionStyle2';
-import BrandSection from '@/app/ui/Section/BrandSecton/BrandSection';
-import Section from '@/app/ui/Section/Section';
-import TeamSection from '@/app/ui/Section/TeamSection/TeamSection';
-import VideoSection from '@/app/ui/Section/VideoSection/VideoSection';
-import WhyChooseUsSection from '@/app/ui/Section/WhyChooseUs/WhyChooseUsSection';
+import PageHeader from '../../../app/ui/PageHeader/PageHeader';
+import AboutSectionStyle2 from '../../../app/ui/Section/AboutSection/AboutSectionStyle2';
+import BannerSectionStyle2 from '../../../app/ui/Section/BannerSection/BannerSectionStyle2';
+import BrandSection from '../../ui/Section/BrandSecton/BrandSection';
+import Section from '../../ui/Section/Section';
+import TeamSection from '../../ui/Section/TeamSection/TeamSection';
+import VideoSection from '../../ui/Section/VideoSection/VideoSection';
+import WhyChooseUsSection from '../../ui/Section/WhyChooseUs/WhyChooseUsSection';
 import aboutImg from '../../../../public/images/about_img.png';
 import WhyChooseUsImg from '../../../../public/images/about_4.png';
 

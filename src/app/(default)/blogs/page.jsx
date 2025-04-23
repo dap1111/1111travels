@@ -1,13 +1,13 @@
 'use client';
-import PageHeader from '@/app/ui/PageHeader/PageHeader';
-import PostStyle5 from '@/app/ui/Post/PostStyle5';
-import Section from '@/app/ui/Section/Section';
-import CategoryWidget from '@/app/ui/Widget/CategoryWidget';
-import NewsletterWidget from '@/app/ui/Widget/NewsletterWidget';
-import PagenationWidget from '@/app/ui/Widget/PagenationWidget';
-import PostWidget from '@/app/ui/Widget/PostWidget';
-import SearchWidget from '@/app/ui/Widget/SearchWidget';
-import TagWidget from '@/app/ui/Widget/TagWidget';
+import PageHeader from '../../ui/PageHeader/PageHeader';
+import PostStyle5 from '../../ui/Post/PostStyle5';
+import Section from '../../ui/Section/Section';
+import CategoryWidget from '../../ui/Widget/CategoryWidget';
+import NewsletterWidget from '../../ui/Widget/NewsletterWidget';
+import PagenationWidget from '../../ui/Widget/PagenationWidget';
+import PostWidget from '../../ui/Widget/PostWidget';
+import SearchWidget from '../../ui/Widget/SearchWidget';
+import TagWidget from '../../ui/Widget/TagWidget';
 
 const postData = [
   {

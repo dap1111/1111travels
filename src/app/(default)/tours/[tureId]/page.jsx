@@ -1,9 +1,9 @@
 'use client';
-import PageHeader from '@/app/ui/PageHeader/PageHeader';
-import Section from '@/app/ui/Section/Section';
-import Tabs from '@/app/ui/Tabs/Tabs';
-import InformationWidget from '@/app/ui/Widget/InformationWidget';
-import PostWidget2 from '@/app/ui/Widget/PostWidget2';
+import PageHeader from '../../../ui/PageHeader/PageHeader';
+import Section from '../../../ui/Section/Section';
+import Tabs from '../../../ui/Tabs/Tabs';
+import InformationWidget from '../../../ui/Widget/InformationWidget';
+import PostWidget2 from '../../../ui/Widget/PostWidget2';
 import Image from 'next/image';
 import tourImgUrl from '../../../../../public/images/tour_details.jpeg';
 

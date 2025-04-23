@@ -1,9 +1,9 @@
 'use client';
-import LocationInMap from '@/app/ui/LocationInMap/LocationInMap';
-import PageHeader from '@/app/ui/PageHeader/PageHeader';
-import ContactFormSection from '@/app/ui/Section/ContactFormSection/ContactFormSection';
-import ContactSection from '@/app/ui/Section/ContactSection/ContactSection';
-import Section from '@/app/ui/Section/Section';
+import LocationInMap from '../../ui/LocationInMap/LocationInMap';
+import PageHeader from '../../ui/PageHeader/PageHeader';
+import ContactFormSection from '../../ui/Section/ContactFormSection/ContactFormSection';
+import ContactSection from '../../ui/Section/ContactSection/ContactSection';
+import Section from '../../ui/Section/Section';
 
 const contactData = [
   {

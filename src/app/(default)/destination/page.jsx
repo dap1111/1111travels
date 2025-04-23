@@ -1,6 +1,6 @@
-import PageHeader from '@/app/ui/PageHeader/PageHeader';
-import DestinationSection from '@/app/ui/Section/DestinationSection/DestinationSection';
-import Section from '@/app/ui/Section/Section';
+import PageHeader from '../../ui/PageHeader/PageHeader';
+import DestinationSection from '../../ui/Section/DestinationSection/DestinationSection';
+import Section from '../../ui/Section/Section';
 
 const destinationData = [
   {

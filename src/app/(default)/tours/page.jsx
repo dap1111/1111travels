@@ -1,7 +1,7 @@
 'use client';
-import PageHeader from '@/app/ui/PageHeader/PageHeader';
-import PackageSectionStyle2 from '@/app/ui/Section/PackageSection/PackageSectionStyle2';
-import Section from '@/app/ui/Section/Section';
+import PageHeader from '../../ui/PageHeader/PageHeader';
+import PackageSectionStyle2 from '../../ui/Section/PackageSection/PackageSectionStyle2';
+import Section from '../../ui/Section/Section';
 
 const packgeData = [
   {

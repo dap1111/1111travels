@@ -1,11 +1,11 @@
 'use client';
 import Image from 'next/image';
-import PageHeader from '@/app/ui/PageHeader/PageHeader';
-import Section from '@/app/ui/Section/Section';
-import CommentsWidget from '@/app/ui/Widget/CommentsWidget';
-import InformationWidget from '@/app/ui/Widget/InformationWidget';
-import PostWidget2 from '@/app/ui/Widget/PostWidget2';
-import SocialWidget from '@/app/ui/Widget/SocialWidget';
+import PageHeader from '../../../ui/PageHeader/PageHeader';
+import Section from '../../../ui/Section/Section';
+import CommentsWidget from '../../../ui/Widget/CommentsWidget';
+import InformationWidget from '../../../ui/Widget/InformationWidget';
+import PostWidget2 from '../../../ui/Widget/PostWidget2';
+import SocialWidget from '../../../ui/Widget/SocialWidget';
 import imgUrl1 from '../../../../../public/images/destination_details_1.jpeg';
 import imgUrl2 from '../../../../../public/images/destination_details_2.jpeg';
 import imgUrl3 from '../../../../../public/images/destination_details_3.jpeg';

@@ -1,4 +1,4 @@
-import Header from '@/app/ui/Header/Header';
+import Header from '../ui/Header/Header';
 import React from 'react';
 
 const headerData = {

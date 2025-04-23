@@ -1,5 +1,5 @@
-import Button from '@/app/ui/Button/Button';
-import Spacing from '@/app/ui/Spacing/Spacing';
+import Button from '../app/ui/Button/Button';
+import Spacing from '../app/ui/Spacing/Spacing';
 
 export default function ErrorPage() {
   return (
