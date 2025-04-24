@@ -85,12 +85,12 @@ export default function Header({ logo, variant }) {
                         <li>
                           <Link href="/">Home</Link>
                         </li>
-                        <li>
+                        {/* <li>
                           <Link href="/home-v2">Home-v2</Link>
                         </li>
                         <li>
                           <Link href="/home-v3">Home-v3</Link>
-                        </li>
+                        </li> */}
                       </ul>
                     </DropDown>
                   </li>
